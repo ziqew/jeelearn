@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2009-07-14 21:49:48.283 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.1.1 - (764942): instance a816c00e-0122-7b3e-2d03-0000046f3cc0
+on database directory memory:/Users/abien/work/workspaces/javaee-patterns~hg/javaee-patterns~hg/DAOPattern/testDB  
+
+Database Class Loader started - derby.database.classpath=''
